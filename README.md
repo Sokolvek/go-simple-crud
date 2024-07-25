@@ -1,0 +1,3 @@
+simple rest api crud written on go
+
+i promise i will refactor my code, im just getting started with go.....
